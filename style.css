@@ -1,0 +1,68 @@
+
+
+/* .sidebar .nav .nav-link:active {
+  background: rgba(255, 255, 255, 0.1);
+  transition: all 0.3s ease-in-out;
+}
+
+.sidebar .nav .nav-link:active:after {
+  opacity: 1;
+} */
+
+.search-btn{
+  height: 40px;
+}
+
+.login_msg .toast{
+    color:white; 
+    background-color:#00b400; 
+    position:absolute; 
+    margin-left:67%;
+}
+
+
+input.error{
+    color:red;
+    font-size:13px;
+    border: 1px solid red !important;
+  }
+  .error{
+    color:red;
+    font-size:13px;
+  }
+  .login__page {
+    position:relative;
+  }
+  .show_success_msg .toast {
+    color:white; 
+    background-color:#00b400; 
+    position:absolute; 
+    margin-left:30%;
+  }
+  .show_error_msg .toast {
+    color:white; 
+    background-color:red; 
+    position:absoulte;
+    margin-left:120%;
+  }
+
+
+  .page_back a:hover{
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: #373741;
+    display: flex;
+    align-items: center;
+  }
+
+  .page_back a{
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: #373741;
+    display: flex;
+    align-items: center;
+  }
+
+  .page_back img{
+    margin: 0 15px 0 0;
+  }
